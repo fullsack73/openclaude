@@ -144,7 +144,7 @@ const OPENAI_CONTEXT_WINDOWS: Record<string, number> = {
   'llama3.2:1b': 128_000,
   'qwen3:8b': 128_000,
   'codestral': 32_768,
-  'glm-5.1:cloud': 128_000,
+  'glm-5.1:cloud': 1_048_576,
 }
 
 /**
